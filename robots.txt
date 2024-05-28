@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nerapoeh.github.io/a/sitemap.html
+Sitemap: https://nerapoeh.github.io/b/sitemap.html
+Sitemap: https://nerapoeh.github.io/c/sitemap.html
+Sitemap: https://nerapoeh.github.io/d/sitemap.html
